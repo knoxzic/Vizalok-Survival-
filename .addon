@@ -1,0 +1,7 @@
+{
+	"title": "Vizalok Survival",
+	"description": "Rust-inspired solo survival gamemode for S&box.",
+	"type": "game",
+	"tags": [ "survival", "rust", "solo" ],
+	"schema": 1
+}
